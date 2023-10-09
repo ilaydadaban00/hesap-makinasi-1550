@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radio buton hesap makinası 1550", "radio buton hesap makinası 1550\radio buton hesap makinası 1550.csproj", "{CF0176B0-D2F0-47E9-B53E-2F45E929950D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0176B0-D2F0-47E9-B53E-2F45E929950D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0176B0-D2F0-47E9-B53E-2F45E929950D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0176B0-D2F0-47E9-B53E-2F45E929950D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0176B0-D2F0-47E9-B53E-2F45E929950D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E38E58-5721-4F59-B3FD-358F86A53E27}
+	EndGlobalSection
+EndGlobal
